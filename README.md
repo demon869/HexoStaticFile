@@ -1,0 +1,2 @@
+# HexoStaticFile
+HexoStaticFile
